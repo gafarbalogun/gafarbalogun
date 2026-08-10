@@ -7,5 +7,6 @@ Getting into cloud security. A principal engineer at my company told me to "put 
 ### Projects
 
 - **[cnapp-eks](https://github.com/gafarbalogun/cnapp-eks)** — rebuilding a commercial CNAPP (Prowler, Kubescape, Falco, Trivy) on a real EKS cluster, with Terraform, to see what's actually happening under the hood of tools like Wiz and Prisma Cloud.
+- **[mac-lib](https://github.com/gafarbalogun/mac-lib)** — a single CLI that unifies every package manager on macOS (brew, pipx, npm, gem, cargo, mas...) and scans all of them for known CVEs via grype, trivy, syft, and osv-scanner.
 - **[secure-pipeline](https://github.com/gafarbalogun/secure-pipeline)** — my first attempt at a security-gated CI/CD pipeline, from before I knew Docker. Kept as a record of where this started.
 - **[argocd-example-apps](https://github.com/gafarbalogun/argocd-example-apps)** — forked from the official Argo CD examples while learning GitOps deployment patterns.
