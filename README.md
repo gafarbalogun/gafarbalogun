@@ -14,4 +14,4 @@ Getting into cloud security. A principal engineer at my company told me to "put 
 ### Currently working on
 
 - Wrapping up `cnapp-eks` — the build itself is basically done, just finishing the writeup and publishing as I go.
-- A personal project around banking/financial telemetry, using Mercury's API. Early stage, keeping the details close for now.
+- A live personal finance dashboard built on Mercury's API — real-time transaction sync, woven into a unified calendar alongside the rest of my life, not just a ledger. Keeping it private for now, but it's further along than "early stage."
